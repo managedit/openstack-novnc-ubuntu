@@ -1,3 +1,11 @@
+openstack-novnc (0.1+20111128-0mit1~4.gbp7873be) oneiric; urgency=low
+
+  ** SNAPSHOT build @7873bed44c5f84b6eb7db3ed46838ee16dd2c750 **
+
+  * UNRELEASED
+
+ -- Managed I.T. CI <ci@managedit.ie>  Mon, 28 Nov 2011 20:34:47 +0000
+
 openstack-novnc (0.1+20111128-0mit1~3.gbp7873be) oneiric; urgency=low
 
   ** SNAPSHOT build @7873bed44c5f84b6eb7db3ed46838ee16dd2c750 **

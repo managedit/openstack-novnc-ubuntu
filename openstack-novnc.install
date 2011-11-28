@@ -1,0 +1,8 @@
+docs var/lib/nova/noVNC/
+images var/lib/nova/noVNC/
+include var/lib/nova/noVNC/
+tests var/lib/nova/noVNC/
+utils var/lib/nova/noVNC/
+favicon.ico var/lib/nova/noVNC/
+vnc.html var/lib/nova/noVNC/
+vnc_auto.html var/lib/nova/noVNC/

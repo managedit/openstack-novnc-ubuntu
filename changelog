@@ -1,0 +1,11 @@
+openstack-novnc (0.1~20111114+1-0mit4) oneiric; urgency=low
+
+  * Update noVNC to 83ed7b8c2566a53947857b097c0be5af8b2c84fe
+
+ -- Kiall Mac Innes <kiall@managedit.ie>  Mon, 14 Nov 2011 04:34:36 +0000
+
+openstack-novnc (0.1~20111114-0mit3) oneiric; urgency=low
+
+  * Initial release (7873bed44c5f84b6eb7db3ed46838ee16dd2c750)
+
+ -- Kiall Mac Innes <kiall@managedit.ie>  Mon, 14 Nov 2011 01:17:25 +0000

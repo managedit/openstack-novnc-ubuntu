@@ -1,0 +1,17 @@
+Source: openstack-novnc
+Section: net
+Priority: extra
+Maintainer: Kiall Mac Innes <kiall@managedit.ie>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.2
+Homepage: https://github.com/openstack/noVNC
+Vcs-Git: https://github.com/managedit/noVNC.git
+Vcs-Browser: https://github.com/managedit/noVNC
+
+
+Package: openstack-novnc
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Modified noVNC for use with OpenStack vnc-proxy
+ noVNC is a VNC client implemented using HTML5 technologies, specifically Canvas
+ and WebSockets (supports 'wss://' encryption). noVNC is licensed under the LGPLv3.

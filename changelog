@@ -1,4 +1,12 @@
-openstack-novnc (0.1+20111128-0mit1~4.gbp7873be) oneiric; urgency=low
+openstack-novnc (0.1+20111130~1909-0mit1~5.gbp7873be) oneiric; urgency=high
+
+  ** SNAPSHOT build @7873bed44c5f84b6eb7db3ed46838ee16dd2c750 **
+
+  * UNRELEASED
+
+ -- Managed I.T. CI <ci@managedit.ie>  Tue, 29 Nov 2011 19:09:07 +0000
+
+openstack-novnc (0.1+20111128-0mit1~4.gbp7873be) oneiric; urgency=high
 
   ** SNAPSHOT build @7873bed44c5f84b6eb7db3ed46838ee16dd2c750 **
 
@@ -6,7 +14,7 @@ openstack-novnc (0.1+20111128-0mit1~4.gbp7873be) oneiric; urgency=low
 
  -- Managed I.T. CI <ci@managedit.ie>  Mon, 28 Nov 2011 20:34:47 +0000
 
-openstack-novnc (0.1+20111128-0mit1~3.gbp7873be) oneiric; urgency=low
+openstack-novnc (0.1+20111128-0mit1~3.gbp7873be) oneiric; urgency=high
 
   ** SNAPSHOT build @7873bed44c5f84b6eb7db3ed46838ee16dd2c750 **
 
@@ -14,13 +22,13 @@ openstack-novnc (0.1+20111128-0mit1~3.gbp7873be) oneiric; urgency=low
 
  -- Managed I.T. CI <ci@managedit.ie>  Mon, 28 Nov 2011 20:29:47 +0000
 
-openstack-novnc (0.1~20111114+1-0mit4) oneiric; urgency=low
+openstack-novnc (0.1~20111114+1-0mit4) oneiric; urgency=high
 
   * Update noVNC to 83ed7b8c2566a53947857b097c0be5af8b2c84fe
 
  -- Kiall Mac Innes <kiall@managedit.ie>  Mon, 14 Nov 2011 04:34:36 +0000
 
-openstack-novnc (0.1~20111114-0mit3) oneiric; urgency=low
+openstack-novnc (0.1~20111114-0mit3) oneiric; urgency=high
 
   * Initial release (7873bed44c5f84b6eb7db3ed46838ee16dd2c750)
 
